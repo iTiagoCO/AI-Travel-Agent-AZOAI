@@ -1,7 +1,7 @@
 import os
 from typing import Optional
 from pydantic import BaseModel, Field
-from serpapi import GoogleSearch
+from serpapi.google_search import GoogleSearch
 from langchain_core.tools import tool
 from elasticapm import capture_span
 

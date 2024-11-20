@@ -5,7 +5,7 @@ from typing import Optional
 import serpapi
 from langchain_core.tools import tool
 from pydantic import BaseModel, Field
-from serpapi import GoogleSearch
+from serpapi.google_search import GoogleSearch
 from elasticapm import capture_span
 
 
