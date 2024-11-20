@@ -1,4 +1,4 @@
-# ✈️🧳 Agente de Viajes AI - Impulsado por LangGraph: Un Caso de Uso Práctico 🌍
+# ✈️🧳 Agente de Viajes AI - Impulsado por LangGraph 🌍
 
 ¡Bienvenido al repositorio de **Agente de Viajes AI**! Este proyecto demuestra cómo aprovechar **LangGraph** junto con **Azure OpenAI** y **LangChain** para construir un asistente de viajes inteligente que automatiza tareas como la búsqueda de vuelos, la reserva de hoteles y el envío de correos electrónicos personalizados. El agente está diseñado para proporcionar a los usuarios una experiencia fluida de planificación de viajes mediante el uso inteligente de múltiples modelos de lenguaje y APIs.
 
